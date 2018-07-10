@@ -1,0 +1,50 @@
+{
+  "release": {
+    "recipients": "music-dev@inria.fr",
+    "credentialsId": "c88d1aef-98c3-4992-a205-31c13e56f012",
+    "medinriasuperproject": {
+      "branch": "moreMUSIC",
+      "url": "https://github.com/Inria-Asclepios/medinria-superproject.git"
+    },
+    "medinriapublic": {
+      "branch": "master",
+      "url": "https://github.com/Inria-Asclepios/medInria-public.git"
+    },
+    "music": {
+      "branch": "master",
+      "url": "https://github.com/Inria-Asclepios/music.git"
+    },
+    "medInriaprivate": {
+      "branch": "master",
+      "url": "https://github.com/medInria/medInria-private.git"
+    },
+    "musicprivate": {
+      "branch": "integration",
+      "url": "https://github.com/FBU-IHU-LIRYC/music-private.git"
+    }
+  },
+  "juliencastelneau": {
+    "recipients": "julien.castelneau@ihu-liryc.fr",
+    "credentialsId": "89af51cf-1cc3-452b-8dd6-c057f600ac18",
+    "medinriasuperproject": {
+      "branch": "moreMUSIC",
+      "url": "https://github.com/Inria-Asclepios/medinria-superproject.git"
+    },
+    "medinriapublic": {
+      "branch": "PaintBrushWithInterpolation",
+      "url": "https://github.com/juliencastelneau/medInria-public.git"
+    },
+    "music": {
+      "branch": "PipelineVT_Loic",
+      "url": "https://github.com/juliencastelneau/music.git"
+    },
+    "medInriaprivate": {
+      "branch": "PaintBrushWithInterpolation",
+      "url": "https://github.com/juliencastelneau/medInria-private.git"
+    },
+    "musicprivate": {
+      "branch": "integration",
+      "url": "https://github.com/FBU-IHU-LIRYC/music-private.git"
+    }
+  }
+}
