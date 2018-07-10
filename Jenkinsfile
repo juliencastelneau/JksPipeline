@@ -7,7 +7,7 @@ node('music-ubuntu-1204-64')
 
 	stage('parseJSON') {
 	    
-	    echo '### Let's go to parse
+	    echo '### Lets go to parse'
 	    
 	    def loadFile = load("parseJSON.groovy")
 
